@@ -67,3 +67,38 @@ This Power BI dashboard analyzes global cyber attack trends across countries, in
 
 Dashboard screenshot is available in this repository.
 
+
+
+# iPhone Users Analysis Dashboard
+
+## Project Overview
+
+This Tableau dashboard analyzes iPhone user behavior, churn trends, demographics, and geographic distribution. The dashboard provides valuable insights into customer engagement and user retention patterns.
+
+## Tools Used
+
+* Tableau
+* Microsoft Excel
+* Data Visualization
+* Dashboard Design
+
+## Key Features
+
+* User Growth Analysis
+* Churn Rate Tracking
+* Gender Distribution Analysis
+* Country-wise User Analysis
+* iPhone Model Popularity Analysis
+* Interactive Dashboard Visualizations
+
+## Key Insights
+
+* Analyzed customer churn and retention patterns.
+* Compared user distribution across countries.
+* Identified the most popular iPhone models.
+* Examined demographic trends and user behavior.
+
+## Dashboard Preview
+
+Dashboard screenshot is available in this repository.
+
