@@ -30,3 +30,40 @@ This project analyzes BMW sales performance from 2020 to 2024 using Microsoft Ex
 ## Dashboard Preview
 
 Dashboard screenshot is available in this repository.
+
+
+
+
+# Global Cyber Attack Analysis Dashboard
+
+## Project Overview
+
+This Power BI dashboard analyzes global cyber attack trends across countries, industries, and attack types. The project helps understand attack patterns, industry impact, and yearly trends through interactive visualizations.
+
+## Tools Used
+
+* Power BI
+* DAX
+* Data Modeling
+* Data Visualization
+
+## Key Features
+
+* Total Attack Analysis
+* Country-wise Attack Distribution
+* Industry-wise Loss Analysis
+* Attack Type Comparison
+* Yearly Trend Analysis
+* Interactive Filters and Slicers
+
+## Key Insights
+
+* Identified countries with the highest number of cyber attacks.
+* Compared attack frequencies across multiple attack types.
+* Analyzed industry-specific financial losses.
+* Monitored cyber attack trends over multiple years.
+
+## Dashboard Preview
+
+Dashboard screenshot is available in this repository.
+
